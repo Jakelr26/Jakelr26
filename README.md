@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakelr26&label=Profile%20views&color=0e75b6&style=flat" alt="jakelr26" /> </p>
 
-- I'm currently working on **BSc (Hons) Computer Science, in my second year**
+- I'm currently working on **BSc (Hons) Computer Science, in my third year**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **jakelear26@gmail.com**
 
